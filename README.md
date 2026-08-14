@@ -3,13 +3,13 @@
 <h3 align="center">Aspiring DevOps & Cloud Engineer | B.Tech Computer Engineering</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/prathmesh-adhav-75431a32b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:adhavprathmesh972@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/PrathmeshAdhav2006">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -41,7 +41,7 @@ B.Tech in Computer Engineering — CGPA: **8.32**
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,aws,jenkins,docker,kubernetes,terraform,java,bash,githubactions,git" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,jenkins,docker,kubernetes,terraform,java,spring,bash,githubactions,git" />
 </p>
 
 | Category | Skills |
@@ -50,7 +50,7 @@ B.Tech in Computer Engineering — CGPA: **8.32**
 | **CI/CD** | Jenkins, GitHub Actions |
 | **Containers & Orchestration** | Docker, Kubernetes |
 | **Infrastructure as Code** | Terraform (Intermediate) |
-| **Languages & Scripting** | Java, Shell Scripting |
+| **Languages & Frameworks** | Java, Spring Boot, Shell Scripting |
 | **OS** | Linux |
 
 ---
@@ -71,8 +71,8 @@ B.Tech in Computer Engineering — CGPA: **8.32**
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathmeshAdhav2006&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshAdhav2006&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ B.Tech in Computer Engineering — CGPA: **8.32**
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/prathmesh-adhav-75431a32b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/prathmesh-adhav-75431a32b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:adhavprathmesh972@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
