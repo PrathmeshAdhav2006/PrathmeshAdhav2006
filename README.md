@@ -12,6 +12,9 @@
   <a href="https://github.com/PrathmeshAdhav2006">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://x.com/Prathmesh9309">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
+  </a>
 </p>
 
 ---
@@ -33,7 +36,7 @@ I'm a **3rd-year B.Tech Computer Engineering student** at AISSMS Institute of In
 ### 🎓 Education
 
 **AISSMS Institute of Information Technology**, Pune, India
-B.Tech in Computer Engineering — CGPA: **8.32**
+B.Tech in Computer Engineering 
 *2024 – 2028*
 
 ---
@@ -71,8 +74,8 @@ B.Tech in Computer Engineering — CGPA: **8.32**
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathmeshAdhav2006&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshAdhav2006&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=PrathmeshAdhav2006&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrathmeshAdhav2006&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
@@ -85,6 +88,7 @@ B.Tech in Computer Engineering — CGPA: **8.32**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prathmesh-adhav-75431a32b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Prathmesh9309"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="mailto:adhavprathmesh972@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
