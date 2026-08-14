@@ -36,7 +36,7 @@ I'm a **3rd-year B.Tech Computer Engineering student** at AISSMS Institute of In
 ### 🎓 Education
 
 **AISSMS Institute of Information Technology**, Pune, India
-B.Tech in Computer Engineering — CGPA: **8.32**
+B.Tech in Computer Engineering
 *2024 – 2028*
 
 ---
@@ -85,20 +85,11 @@ B.Tech in Computer Engineering — CGPA: **8.32**
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathmeshAdhav2006&theme=radical" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathmeshAdhav2006&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrathmeshAdhav2006&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathmeshAdhav2006&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrathmeshAdhav2006&theme=radical&utcOffset=5.5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathmeshAdhav2006&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshAdhav2006&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
