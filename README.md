@@ -88,8 +88,9 @@ B.Tech in Computer Engineering
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathmeshAdhav2006&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshAdhav2006&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/github/followers/PrathmeshAdhav2006?style=for-the-badge&label=Followers" />
+  <img src="https://img.shields.io/github/stars/PrathmeshAdhav2006?style=for-the-badge&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/repos/PrathmeshAdhav2006?style=for-the-badge&label=Public%20Repos" />
 </p>
 
 ---
