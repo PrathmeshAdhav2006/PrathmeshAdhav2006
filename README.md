@@ -36,7 +36,7 @@ I'm a **3rd-year B.Tech Computer Engineering student** at AISSMS Institute of In
 ### 🎓 Education
 
 **AISSMS Institute of Information Technology**, Pune, India
-B.Tech in Computer Engineering 
+B.Tech in Computer Engineering — CGPA: **8.32**
 *2024 – 2028*
 
 ---
@@ -44,16 +44,30 @@ B.Tech in Computer Engineering
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,aws,jenkins,docker,kubernetes,terraform,java,spring,bash,githubactions,git" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,jenkins,docker,kubernetes,terraform,ansible,java,spring,npm,bash,githubactions,git" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
 </p>
 
 | Category | Skills |
 |---|---|
 | **Cloud** | AWS (Intermediate) |
-| **CI/CD** | Jenkins, GitHub Actions |
+| **CI/CD** | Jenkins, GitHub Actions, Argo CD |
 | **Containers & Orchestration** | Docker, Kubernetes |
-| **Infrastructure as Code** | Terraform (Intermediate) |
+| **Infrastructure as Code & Config Mgmt** | Terraform (Intermediate), Ansible |
+| **Build Tools** | Maven, npm, pip |
+| **Code Quality & Security** | SonarQube, Trivy |
+| **Monitoring & Observability** | Prometheus, Grafana |
 | **Languages & Frameworks** | Java, Spring Boot, Shell Scripting |
+| **Networking** | Networking Fundamentals |
 | **OS** | Linux |
 
 ---
@@ -71,15 +85,26 @@ B.Tech in Computer Engineering
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=PrathmeshAdhav2006&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrathmeshAdhav2006&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathmeshAdhav2006&theme=radical" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrathmeshAdhav2006&theme=radical" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathmeshAdhav2006&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrathmeshAdhav2006&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathmeshAdhav2006&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrathmeshAdhav2006&theme=radical&utcOffset=5.5" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrathmeshAdhav2006&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
