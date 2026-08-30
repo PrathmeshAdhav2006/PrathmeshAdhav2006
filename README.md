@@ -1,12 +1,8 @@
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
-
 <h1 align="center">Hi 👋, I'm Prathmesh Adhav from India 🇮🇳</h1>
 
 <h3 align="center">
 Aspiring DevOps & Cloud Engineer | Building CI/CD Pipelines | Automating Infrastructure
 </h3>
-
-<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PrathmeshAdhav2006&label=Profile%20views&color=0e75b6&style=flat" />
@@ -16,7 +12,7 @@ Aspiring DevOps & Cloud Engineer | Building CI/CD Pipelines | Automating Infrast
 
 ## 👨‍💻 About Me
 
-I am a **3rd-year B.Tech Computer Engineering student** at **AISSMS Institute of Information Technology, Pune**, with a strong interest in **DevOps and Cloud technologies**.
+I'm a tech enthusiast with a strong interest in **DevOps and Cloud technologies**.
 
 I'm focused on learning by building hands-on projects around:
 
@@ -28,29 +24,6 @@ I'm focused on learning by building hands-on projects around:
 - 🔄 GitOps with Argo CD
 - 📊 Monitoring with Prometheus & Grafana
 - 🔐 DevSecOps with SonarQube & Trivy
-
----
-
-## 🎓 Education
-
-**AISSMS Institute of Information Technology, Pune, India**
-
-B.Tech in Computer Engineering  
-*2024 – 2028*
-
----
-
-## 🚀 What I Do
-
-- Build end-to-end **CI/CD pipelines** using Jenkins
-- Containerize applications using **Docker**
-- Deploy and manage applications on **Kubernetes**
-- Work with **AWS and Amazon EKS**
-- Provision cloud infrastructure using **Terraform**
-- Implement **GitOps deployments using Argo CD**
-- Configure monitoring and observability using **Prometheus & Grafana**
-- Integrate **SonarQube and Trivy** into CI/CD pipelines
-- Work with **Linux, Bash scripting and Git**
 
 ---
 
@@ -95,12 +68,6 @@ B.Tech in Computer Engineering
 <img src="https://skillicons.dev/icons?i=java,spring,bash,python,maven,npm" />
 </p>
 
-### 🖥️ OS & Networking
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
-
 ---
 
 ## 🌟 Featured Projects
@@ -132,36 +99,6 @@ A Kubernetes-based **Blue-Green deployment** project designed to demonstrate zer
 - 🐳 Built and pushed Docker images
 - 🌐 Integrated Kubernetes networking and AWS infrastructure
 - 📊 Planned monitoring with **Prometheus & Grafana**
-
----
-
-## 📚 Currently Learning
-
-- ☁️ Advanced AWS & Cloud Architecture
-- ☸️ Kubernetes & Amazon EKS
-- 🔄 GitOps with Argo CD
-- 🏗️ Terraform & Infrastructure Automation
-- 🤖 LLMs & Agentic AI
-- 🐍 Python for AI/Automation
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Become internship-ready for **DevOps & Cloud roles**
-- ☁️ Strengthen AWS and Kubernetes expertise
-- 🔄 Build production-style CI/CD pipelines
-- 🏗️ Improve Terraform and cloud architecture skills
-- 📊 Build stronger observability and monitoring projects
-- 🤖 Combine **DevOps with AI/LLM technologies**
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathmeshAdhav2006&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
 
 ---
 
