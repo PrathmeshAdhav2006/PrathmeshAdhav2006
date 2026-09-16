@@ -120,8 +120,3 @@ A Kubernetes-based **Blue-Green deployment** project designed to demonstrate zer
 
 📫 Reach me at **adhavprathmesh972@gmail.com**
 
----
-
-<p align="center">
-<i>"Learning today to automate tomorrow."</i>
-</p>
